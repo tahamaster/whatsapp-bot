@@ -1,3 +1,7 @@
+ابگوشت بخور  بیناموس اصکی رو
+
+
+
 ## WhatsApp User Bot
 
 This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
